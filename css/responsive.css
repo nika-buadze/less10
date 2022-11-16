@@ -1,0 +1,21 @@
+@media (max-width:920px) {
+    .nav {
+        display: none;
+    }
+    .burger-bar {
+        display: block;
+    }
+}
+
+@media (max-width:730px) {
+    .area {
+        display: none;
+    }
+    .subj-style {
+        width: 200px;
+
+    }
+    .btn {
+        width: 200px;
+    }
+}
